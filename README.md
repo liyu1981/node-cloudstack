@@ -1,3 +1,8 @@
+# About the fork
+
+This is my fork to make the node-cloudstack work with recent nodejs. Original 
+https://github.com/Chatham/node-cloudstack only works with nodejs version around 0.40.
+
 # cloudstack
 
 `cloudstack` is a minimalistic wrapper for the CloudStack API in Node.js.
